@@ -6,6 +6,7 @@ My leetcode submissions
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -26,9 +27,14 @@ My leetcode submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Aarav471471/Leetcodeashah/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Aarav471471/Leetcodeashah/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
