@@ -8,6 +8,7 @@ My leetcode submissions
 | ------- |
 | [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
@@ -21,11 +22,13 @@ My leetcode submissions
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
+| [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
+| [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
@@ -51,11 +54,13 @@ My leetcode submissions
 ## Knapsack Problem
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
 ## Two Pointers
