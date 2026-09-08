@@ -7,6 +7,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
+| [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -51,4 +52,20 @@ My leetcode submissions
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
