@@ -109,4 +109,16 @@ My leetcode submissions
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aarav471471/Leetcodeashah/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aarav471471/Leetcodeashah/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aarav471471/Leetcodeashah/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
