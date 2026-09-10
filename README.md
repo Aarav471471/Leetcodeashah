@@ -29,6 +29,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
+| [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
@@ -37,6 +38,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Aarav471471/Leetcodeashah/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 ## Bit Manipulation
 |  |
@@ -56,6 +58,7 @@ My leetcode submissions
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
@@ -92,4 +95,12 @@ My leetcode submissions
 |  |
 | ------- |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
