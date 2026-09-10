@@ -13,6 +13,7 @@ My leetcode submissions
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -36,6 +37,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Aarav471471/Leetcodeashah/tree/master/0231-power-of-two) |
+| [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,4 +88,8 @@ My leetcode submissions
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
+## Geometry
+|  |
+| ------- |
+| [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 <!---LeetCode Topics End-->
