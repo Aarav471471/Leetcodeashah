@@ -5,7 +5,7 @@ public:
         if(sum==0){return 0;}
         if(dp[sum]!=-1){return dp[sum];}
         int cnt=INT_MAX;
-        for(int i=1;i<=sum;i++){
+        for(int i=1;i*i<=sum;i++){
             if(i*i<=sum){
                 cnt=min({cnt,ways(sum-i*i,n)+1});
             }
