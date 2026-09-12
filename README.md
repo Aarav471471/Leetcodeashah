@@ -14,6 +14,7 @@ My leetcode submissions
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3904-smallest-stable-index-ii) |
@@ -38,6 +39,7 @@ My leetcode submissions
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +91,7 @@ My leetcode submissions
 | ------- |
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -133,4 +136,8 @@ My leetcode submissions
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
