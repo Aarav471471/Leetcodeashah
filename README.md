@@ -30,6 +30,7 @@ My leetcode submissions
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -90,12 +91,14 @@ My leetcode submissions
 | ------- |
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Aarav471471/Leetcodeashah/tree/master/0860-lemonade-change) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
@@ -138,6 +141,7 @@ My leetcode submissions
 ## Hash Table
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
