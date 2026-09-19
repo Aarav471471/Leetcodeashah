@@ -50,6 +50,7 @@ My leetcode submissions
 | [0231-power-of-two](https://github.com/Aarav471471/Leetcodeashah/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aarav471471/Leetcodeashah/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 ## Bit Manipulation
 |  |
@@ -113,6 +114,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aarav471471/Leetcodeashah/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 ## Breadth-First Search
 |  |
