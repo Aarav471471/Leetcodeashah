@@ -17,6 +17,7 @@ My leetcode submissions
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/3524-find-x-value-of-array-i) |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -45,6 +46,7 @@ My leetcode submissions
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/3524-find-x-value-of-array-i) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@ My leetcode submissions
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aarav471471/Leetcodeashah/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/3524-find-x-value-of-array-i) |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 ## Bit Manipulation
 |  |
