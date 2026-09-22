@@ -18,6 +18,7 @@ My leetcode submissions
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3525-find-x-value-of-array-ii) |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -55,6 +56,7 @@ My leetcode submissions
 | [0836-rectangle-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aarav471471/Leetcodeashah/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3525-find-x-value-of-array-ii) |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 ## Bit Manipulation
 |  |
@@ -165,4 +167,8 @@ My leetcode submissions
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
