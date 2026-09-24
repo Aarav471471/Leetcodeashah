@@ -20,6 +20,7 @@ My leetcode submissions
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aarav471471/Leetcodeashah/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -59,6 +60,7 @@ My leetcode submissions
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aarav471471/Leetcodeashah/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aarav471471/Leetcodeashah/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3899-angles-of-a-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/3899-angles-of-a-triangle) |
 ## Bit Manipulation
 |  |
