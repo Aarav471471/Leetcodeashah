@@ -15,6 +15,7 @@ My leetcode submissions
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
@@ -36,6 +37,7 @@ My leetcode submissions
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -155,6 +157,7 @@ My leetcode submissions
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
