@@ -34,6 +34,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
@@ -48,6 +49,7 @@ My leetcode submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
@@ -195,6 +197,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -202,6 +205,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
