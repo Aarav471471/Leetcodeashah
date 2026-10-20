@@ -7,6 +7,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aarav471471/Leetcodeashah/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
@@ -73,6 +74,7 @@ My leetcode submissions
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aarav471471/Leetcodeashah/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Aarav471471/Leetcodeashah/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0836-rectangle-overlap) |
@@ -216,6 +218,7 @@ My leetcode submissions
 | [0020-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aarav471471/Leetcodeashah/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1021-remove-outermost-parentheses) |
