@@ -62,6 +62,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Aarav471471/Leetcodeashah/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
@@ -77,6 +78,7 @@ My leetcode submissions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aarav471471/Leetcodeashah/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aarav471471/Leetcodeashah/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Aarav471471/Leetcodeashah/tree/master/0231-power-of-two) |
@@ -247,4 +249,8 @@ My leetcode submissions
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aarav471471/Leetcodeashah/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
