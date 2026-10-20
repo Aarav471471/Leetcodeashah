@@ -42,6 +42,7 @@ My leetcode submissions
 | [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
+| [0227-basic-calculator-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0678-valid-parenthesis-string) |
@@ -77,6 +78,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aarav471471/Leetcodeashah/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Aarav471471/Leetcodeashah/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0836-rectangle-overlap) |
@@ -223,6 +225,7 @@ My leetcode submissions
 | [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aarav471471/Leetcodeashah/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Aarav471471/Leetcodeashah/tree/master/0735-asteroid-collision) |
