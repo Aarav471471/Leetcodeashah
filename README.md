@@ -171,6 +171,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
+| [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -186,6 +187,7 @@ My leetcode submissions
 ## Depth-First Search
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aarav471471/Leetcodeashah/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -262,4 +264,12 @@ My leetcode submissions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aarav471471/Leetcodeashah/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
 <!---LeetCode Topics End-->
