@@ -10,6 +10,7 @@ My leetcode submissions
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aarav471471/Leetcodeashah/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
@@ -70,6 +71,7 @@ My leetcode submissions
 | [0063-unique-paths-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
+| [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
@@ -216,6 +218,7 @@ My leetcode submissions
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
