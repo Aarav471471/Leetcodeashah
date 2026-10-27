@@ -19,6 +19,7 @@ My leetcode submissions
 | [0860-lemonade-change](https://github.com/Aarav471471/Leetcodeashah/tree/master/0860-lemonade-change) |
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
+| [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aarav471471/Leetcodeashah/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -176,6 +177,7 @@ My leetcode submissions
 | ------- |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
+| [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -192,6 +194,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
+| [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aarav471471/Leetcodeashah/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -222,6 +225,7 @@ My leetcode submissions
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aarav471471/Leetcodeashah/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
@@ -274,6 +278,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
+| [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
