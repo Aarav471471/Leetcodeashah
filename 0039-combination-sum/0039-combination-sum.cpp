@@ -19,7 +19,7 @@ public:
         return 0;
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        sort(candidates.begin(),candidates.end());
+        // sort(candidates.begin(),candidates.end());
         vector<vector<int>>fans;
         vector<int>ans;
         int curr=ways(0,target,candidates,fans,ans);
