@@ -7,6 +7,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
@@ -130,6 +131,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 ## Knapsack Problem
