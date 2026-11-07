@@ -39,6 +39,7 @@ My leetcode submissions
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aarav471471/Leetcodeashah/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2747-count-zero-request-servers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aarav471471/Leetcodeashah/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/3524-find-x-value-of-array-i) |
@@ -195,6 +196,7 @@ My leetcode submissions
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
 | [1882-process-tasks-using-servers](https://github.com/Aarav471471/Leetcodeashah/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aarav471471/Leetcodeashah/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aarav471471/Leetcodeashah/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Geometry
 |  |
@@ -208,6 +210,7 @@ My leetcode submissions
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -264,6 +267,7 @@ My leetcode submissions
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav471471/Leetcodeashah/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aarav471471/Leetcodeashah/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -323,10 +327,12 @@ My leetcode submissions
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aarav471471/Leetcodeashah/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aarav471471/Leetcodeashah/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Stack
 |  |
