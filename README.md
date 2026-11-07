@@ -18,6 +18,7 @@ My leetcode submissions
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0518-coin-change-ii) |
 | [0735-asteroid-collision](https://github.com/Aarav471471/Leetcodeashah/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0835-image-overlap) |
@@ -285,6 +286,7 @@ My leetcode submissions
 | [0227-basic-calculator-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Aarav471471/Leetcodeashah/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0856-score-of-parentheses) |
@@ -327,4 +329,5 @@ My leetcode submissions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
