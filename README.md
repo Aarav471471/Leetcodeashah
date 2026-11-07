@@ -17,6 +17,7 @@ My leetcode submissions
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0518-coin-change-ii) |
 | [0735-asteroid-collision](https://github.com/Aarav471471/Leetcodeashah/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0835-image-overlap) |
@@ -230,6 +231,7 @@ My leetcode submissions
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -282,6 +284,7 @@ My leetcode submissions
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aarav471471/Leetcodeashah/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Aarav471471/Leetcodeashah/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0856-score-of-parentheses) |
@@ -320,4 +323,8 @@ My leetcode submissions
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aarav471471/Leetcodeashah/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
