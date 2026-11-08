@@ -29,6 +29,7 @@ My leetcode submissions
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aarav471471/Leetcodeashah/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarav471471/Leetcodeashah/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1514-path-with-maximum-probability](https://github.com/Aarav471471/Leetcodeashah/tree/master/1514-path-with-maximum-probability) |
@@ -218,6 +219,7 @@ My leetcode submissions
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Complete Knapsack
 |  |
@@ -237,6 +239,7 @@ My leetcode submissions
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aarav471471/Leetcodeashah/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -271,6 +274,7 @@ My leetcode submissions
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aarav471471/Leetcodeashah/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav471471/Leetcodeashah/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -331,6 +335,7 @@ My leetcode submissions
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aarav471471/Leetcodeashah/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
@@ -372,4 +377,8 @@ My leetcode submissions
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/Aarav471471/Leetcodeashah/tree/master/1514-path-with-maximum-probability) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
