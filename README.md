@@ -26,6 +26,7 @@ My leetcode submissions
 | [0835-image-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Aarav471471/Leetcodeashah/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aarav471471/Leetcodeashah/tree/master/0907-sum-of-subarray-minimums) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
@@ -75,6 +76,7 @@ My leetcode submissions
 | [0678-valid-parenthesis-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
@@ -337,6 +339,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aarav471471/Leetcodeashah/tree/master/1584-min-cost-to-connect-all-points) |
@@ -344,6 +347,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
 | [1514-path-with-maximum-probability](https://github.com/Aarav471471/Leetcodeashah/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aarav471471/Leetcodeashah/tree/master/1584-min-cost-to-connect-all-points) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
