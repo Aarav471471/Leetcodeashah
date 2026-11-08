@@ -223,6 +223,7 @@ My leetcode submissions
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aarav471471/Leetcodeashah/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Complete Knapsack
 |  |
@@ -243,6 +244,7 @@ My leetcode submissions
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aarav471471/Leetcodeashah/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aarav471471/Leetcodeashah/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -342,12 +344,14 @@ My leetcode submissions
 | [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aarav471471/Leetcodeashah/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aarav471471/Leetcodeashah/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aarav471471/Leetcodeashah/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/Aarav471471/Leetcodeashah/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aarav471471/Leetcodeashah/tree/master/1584-min-cost-to-connect-all-points) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
