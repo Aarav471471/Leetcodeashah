@@ -42,6 +42,7 @@ My leetcode submissions
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aarav471471/Leetcodeashah/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aarav471471/Leetcodeashah/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aarav471471/Leetcodeashah/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2747-count-zero-request-servers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aarav471471/Leetcodeashah/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -279,11 +280,13 @@ My leetcode submissions
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav471471/Leetcodeashah/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Aarav471471/Leetcodeashah/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aarav471471/Leetcodeashah/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aarav471471/Leetcodeashah/tree/master/0735-asteroid-collision) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aarav471471/Leetcodeashah/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
