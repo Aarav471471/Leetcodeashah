@@ -80,6 +80,7 @@ My leetcode submissions
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1021-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -107,6 +108,7 @@ My leetcode submissions
 | [0907-sum-of-subarray-minimums](https://github.com/Aarav471471/Leetcodeashah/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aarav471471/Leetcodeashah/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav471471/Leetcodeashah/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -240,6 +242,7 @@ My leetcode submissions
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
 ## Tree
 |  |
