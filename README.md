@@ -22,6 +22,7 @@ My leetcode submissions
 | [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0518-coin-change-ii) |
+| [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Aarav471471/Leetcodeashah/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Aarav471471/Leetcodeashah/tree/master/0860-lemonade-change) |
@@ -80,6 +81,7 @@ My leetcode submissions
 | [0516-longest-palindromic-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
@@ -209,6 +211,7 @@ My leetcode submissions
 | ------- |
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarav471471/Leetcodeashah/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1755-closest-subsequence-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/1755-closest-subsequence-sum) |
@@ -242,6 +245,7 @@ My leetcode submissions
 | ------- |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
+| [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aarav471471/Leetcodeashah/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -264,6 +268,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
+| [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aarav471471/Leetcodeashah/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -276,6 +281,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -364,6 +370,7 @@ My leetcode submissions
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0685-redundant-connection-ii) |
+| [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
