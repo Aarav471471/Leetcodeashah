@@ -75,6 +75,7 @@ My leetcode submissions
 | [0071-simplify-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Aarav471471/Leetcodeashah/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Aarav471471/Leetcodeashah/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
@@ -108,6 +109,7 @@ My leetcode submissions
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Aarav471471/Leetcodeashah/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Aarav471471/Leetcodeashah/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
@@ -169,6 +171,7 @@ My leetcode submissions
 | [0039-combination-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Aarav471471/Leetcodeashah/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 ## Knapsack Problem
