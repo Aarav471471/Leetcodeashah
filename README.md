@@ -77,6 +77,7 @@ My leetcode submissions
 | [0227-basic-calculator-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0856-score-of-parentheses) |
@@ -108,6 +109,7 @@ My leetcode submissions
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0678-valid-parenthesis-string) |
