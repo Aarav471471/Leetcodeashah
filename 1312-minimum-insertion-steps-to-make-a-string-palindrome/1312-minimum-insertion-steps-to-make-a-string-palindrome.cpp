@@ -1,0 +1,27 @@
+class Solution {
+public:
+    int minInsertions(string s) {
+        int n=s.size();
+        vector<vector<int>>dp(n,vector<int>(n,0));
+
+        for(int l=1;l<=n;l++){
+            for(int i=0;i+l-1<n;i++){
+                int j=i+l-1;
+                if(i==j){
+                    dp[i][i]=0;
+                }else if( i==j-1){
+                    if(s[i]!=s[j]){
+                        dp[i][j]=1;
+                    }
+                }else{
+                    if(s[i]==s[j]){
+                        dp[i][j]=dp[i+1][j-1];
+                    }else{
+                        dp[i][j]=min({dp[i+1][j]+1,dp[i][j-1]+1,dp[i+1][j-1]+j-i});
+                    }
+                }
+            }
+        }
+        return dp[0][n-1];
+    }
+};
