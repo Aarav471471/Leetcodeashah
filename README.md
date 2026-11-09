@@ -68,6 +68,7 @@ My leetcode submissions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aarav471471/Leetcodeashah/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/0071-simplify-path) |
@@ -96,6 +97,7 @@ My leetcode submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aarav471471/Leetcodeashah/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Aarav471471/Leetcodeashah/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0063-unique-paths-ii) |
@@ -180,6 +182,7 @@ My leetcode submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aarav471471/Leetcodeashah/tree/master/0005-longest-palindromic-substring) |
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/0647-palindromic-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarav471471/Leetcodeashah/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -420,4 +423,8 @@ My leetcode submissions
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aarav471471/Leetcodeashah/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aarav471471/Leetcodeashah/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
