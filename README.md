@@ -71,6 +71,7 @@ My leetcode submissions
 | [0020-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Aarav471471/Leetcodeashah/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
 | [0227-basic-calculator-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0394-decode-string) |
@@ -98,6 +99,7 @@ My leetcode submissions
 | [0062-unique-paths](https://github.com/Aarav471471/Leetcodeashah/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Aarav471471/Leetcodeashah/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
