@@ -1,24 +1,28 @@
 class Solution {
 public:
-    vector<vector<int>>dp;
-    int lcs(int i,int j,string &text1,string &text2){
-        if(i<0 || j<0){
-            return 0;
-        }
-        if(dp[i][j]!=-1){return dp[i][j];}
-        int ans=0;
-        if(text1[i]==text2[j]){
-            ans=lcs(i-1,j-1,text1,text2)+1;
-        }else{
-            ans=max({lcs(i-1,j,text1,text2),lcs(i,j-1,text1,text2)});
-        }
-        return dp[i][j]=ans;
-
-    }
     int longestCommonSubsequence(string text1, string text2) {
         int n=text1.size();
         int m=text2.size();
-        dp.assign(n+1,vector<int>(m+1,-1));
-        return lcs(n-1,m-1,text1,text2);
+        vector<vector<int>>dp(n,vector<int>(m,0));
+        // if(text1[0]==text2[0]){dp[0][0]++;}
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(text1[i]==text2[j]){
+                    dp[i][j]=1;
+                    if(i>0 && j>0){
+                        dp[i][j]+=(dp[i-1][j-1]);
+                    }
+                }else{
+                    if(i>0 && j>0){
+                        dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
+                    }else if(i==0 && j>0){
+                        dp[i][j]=max(dp[i][j],dp[i][j-1]);
+                    }else if(i>0 && j==0){
+                        dp[i][j]=max(dp[i][j],dp[i-1][j]);
+                    }
+                }   
+            }
+        }
+        return dp[n-1][m-1];
     }
 };
