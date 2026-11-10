@@ -11,6 +11,7 @@ My leetcode submissions
 | [0063-unique-paths-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
+| [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aarav471471/Leetcodeashah/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
@@ -77,6 +78,7 @@ My leetcode submissions
 | [0072-edit-distance](https://github.com/Aarav471471/Leetcodeashah/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Aarav471471/Leetcodeashah/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
 | [0227-basic-calculator-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
@@ -112,6 +114,7 @@ My leetcode submissions
 | [0072-edit-distance](https://github.com/Aarav471471/Leetcodeashah/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Aarav471471/Leetcodeashah/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
@@ -288,6 +291,7 @@ My leetcode submissions
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -446,4 +450,16 @@ My leetcode submissions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aarav471471/Leetcodeashah/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
