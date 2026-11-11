@@ -17,6 +17,7 @@ My leetcode submissions
 | [0174-dungeon-game](https://github.com/Aarav471471/Leetcodeashah/tree/master/0174-dungeon-game) |
 | [0216-combination-sum-iii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aarav471471/Leetcodeashah/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -123,6 +124,7 @@ My leetcode submissions
 | [0174-dungeon-game](https://github.com/Aarav471471/Leetcodeashah/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Aarav471471/Leetcodeashah/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Aarav471471/Leetcodeashah/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/0516-longest-palindromic-subsequence) |
@@ -317,6 +319,7 @@ My leetcode submissions
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/0300-longest-increasing-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarav471471/Leetcodeashah/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aarav471471/Leetcodeashah/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -475,4 +478,8 @@ My leetcode submissions
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
