@@ -11,6 +11,7 @@ My leetcode submissions
 | [0063-unique-paths-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Aarav471471/Leetcodeashah/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aarav471471/Leetcodeashah/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0216-combination-sum-iii) |
@@ -114,6 +115,7 @@ My leetcode submissions
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Aarav471471/Leetcodeashah/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aarav471471/Leetcodeashah/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Aarav471471/Leetcodeashah/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Aarav471471/Leetcodeashah/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
