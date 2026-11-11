@@ -27,6 +27,7 @@ My leetcode submissions
 | [0518-coin-change-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0518-coin-change-ii) |
 | [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Aarav471471/Leetcodeashah/tree/master/0735-asteroid-collision) |
+| [0741-cherry-pickup](https://github.com/Aarav471471/Leetcodeashah/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Aarav471471/Leetcodeashah/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aarav471471/Leetcodeashah/tree/master/0907-sum-of-subarray-minimums) |
@@ -129,6 +130,7 @@ My leetcode submissions
 | [0583-delete-operation-for-two-strings](https://github.com/Aarav471471/Leetcodeashah/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/0678-valid-parenthesis-string) |
+| [0741-cherry-pickup](https://github.com/Aarav471471/Leetcodeashah/tree/master/0741-cherry-pickup) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aarav471471/Leetcodeashah/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
@@ -326,6 +328,7 @@ My leetcode submissions
 | [0064-minimum-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Aarav471471/Leetcodeashah/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
+| [0741-cherry-pickup](https://github.com/Aarav471471/Leetcodeashah/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/Aarav471471/Leetcodeashah/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
