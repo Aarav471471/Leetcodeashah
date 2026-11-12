@@ -36,6 +36,7 @@ My leetcode submissions
 | [0931-minimum-falling-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0931-minimum-falling-path-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/Aarav471471/Leetcodeashah/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aarav471471/Leetcodeashah/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aarav471471/Leetcodeashah/tree/master/1267-count-servers-that-communicate) |
@@ -98,6 +99,7 @@ My leetcode submissions
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aarav471471/Leetcodeashah/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/Aarav471471/Leetcodeashah/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
@@ -139,6 +141,7 @@ My leetcode submissions
 | [0907-sum-of-subarray-minimums](https://github.com/Aarav471471/Leetcodeashah/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/Aarav471471/Leetcodeashah/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
@@ -215,6 +218,7 @@ My leetcode submissions
 | [0005-longest-palindromic-substring](https://github.com/Aarav471471/Leetcodeashah/tree/master/0005-longest-palindromic-substring) |
 | [0455-assign-cookies](https://github.com/Aarav471471/Leetcodeashah/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/0647-palindromic-substrings) |
+| [1048-longest-string-chain](https://github.com/Aarav471471/Leetcodeashah/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarav471471/Leetcodeashah/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1755-closest-subsequence-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/1755-closest-subsequence-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -239,6 +243,7 @@ My leetcode submissions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aarav471471/Leetcodeashah/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/Aarav471471/Leetcodeashah/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarav471471/Leetcodeashah/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1755-closest-subsequence-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/1755-closest-subsequence-sum) |
@@ -311,6 +316,7 @@ My leetcode submissions
 | [0139-word-break](https://github.com/Aarav471471/Leetcodeashah/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/Aarav471471/Leetcodeashah/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/Aarav471471/Leetcodeashah/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aarav471471/Leetcodeashah/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav471471/Leetcodeashah/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
