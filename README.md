@@ -74,6 +74,7 @@ My leetcode submissions
 ## Prefix Sum
 |  |
 | ------- |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Aarav471471/Leetcodeashah/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -147,6 +148,7 @@ My leetcode submissions
 | [1143-longest-common-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aarav471471/Leetcodeashah/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aarav471471/Leetcodeashah/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Aarav471471/Leetcodeashah/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav471471/Leetcodeashah/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1755-closest-subsequence-sum](https://github.com/Aarav471471/Leetcodeashah/tree/master/1755-closest-subsequence-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav471471/Leetcodeashah/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
