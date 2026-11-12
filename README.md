@@ -56,6 +56,7 @@ My leetcode submissions
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aarav471471/Leetcodeashah/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2747-count-zero-request-servers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aarav471471/Leetcodeashah/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aarav471471/Leetcodeashah/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
