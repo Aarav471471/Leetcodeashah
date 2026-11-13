@@ -17,6 +17,7 @@ My leetcode submissions
 | [0174-dungeon-game](https://github.com/Aarav471471/Leetcodeashah/tree/master/0174-dungeon-game) |
 | [0216-combination-sum-iii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Aarav471471/Leetcodeashah/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Aarav471471/Leetcodeashah/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aarav471471/Leetcodeashah/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -265,6 +266,7 @@ My leetcode submissions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/Aarav471471/Leetcodeashah/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/Aarav471471/Leetcodeashah/tree/master/1514-path-with-maximum-probability) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aarav471471/Leetcodeashah/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -373,6 +375,7 @@ My leetcode submissions
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0239-sliding-window-maximum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2747-count-zero-request-servers) |
 ## Stack
@@ -500,4 +503,16 @@ My leetcode submissions
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aarav471471/Leetcodeashah/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aarav471471/Leetcodeashah/tree/master/0646-maximum-length-of-pair-chain) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
