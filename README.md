@@ -62,6 +62,7 @@ My leetcode submissions
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aarav471471/Leetcodeashah/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aarav471471/Leetcodeashah/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3525-find-x-value-of-array-ii) |
@@ -371,6 +372,7 @@ My leetcode submissions
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aarav471471/Leetcodeashah/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3525-find-x-value-of-array-ii) |
 ## Sliding Window
 |  |
@@ -378,6 +380,7 @@ My leetcode submissions
 | [0239-sliding-window-maximum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0239-sliding-window-maximum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aarav471471/Leetcodeashah/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Stack
 |  |
 | ------- |
@@ -398,6 +401,7 @@ My leetcode submissions
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav471471/Leetcodeashah/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aarav471471/Leetcodeashah/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -446,6 +450,7 @@ My leetcode submissions
 | [0496-next-greater-element-i](https://github.com/Aarav471471/Leetcodeashah/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aarav471471/Leetcodeashah/tree/master/0907-sum-of-subarray-minimums) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aarav471471/Leetcodeashah/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -507,10 +512,12 @@ My leetcode submissions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aarav471471/Leetcodeashah/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aarav471471/Leetcodeashah/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
