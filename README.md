@@ -61,6 +61,7 @@ My leetcode submissions
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aarav471471/Leetcodeashah/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aarav471471/Leetcodeashah/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav471471/Leetcodeashah/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aarav471471/Leetcodeashah/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aarav471471/Leetcodeashah/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aarav471471/Leetcodeashah/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav471471/Leetcodeashah/tree/master/3483-unique-3-digit-even-numbers) |
@@ -79,6 +80,7 @@ My leetcode submissions
 | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Aarav471471/Leetcodeashah/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aarav471471/Leetcodeashah/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav471471/Leetcodeashah/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -380,6 +382,7 @@ My leetcode submissions
 | [0239-sliding-window-maximum](https://github.com/Aarav471471/Leetcodeashah/tree/master/0239-sliding-window-maximum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav471471/Leetcodeashah/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Aarav471471/Leetcodeashah/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aarav471471/Leetcodeashah/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aarav471471/Leetcodeashah/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Stack
 |  |
